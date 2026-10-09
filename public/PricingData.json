@@ -1,0 +1,59 @@
+[
+  {
+    "id": 1,
+    "name": "Basic",
+    "price": 30,
+    "duration": "1 Month",
+    "description": "Perfect for beginners starting their fitness journey.",
+    "features": [
+      "Gym equipment access",
+      "Locker access",
+      "Basic workout guidance",
+      "Cardio equipment",
+      "Strength training equipment",
+      "Free Wi-Fi",
+      "Changing room access",
+      "Water station access"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Standard",
+    "price": 50,
+    "duration": "1 Month",
+    "description": "A balanced plan for regular training and fitness improvement.",
+    "features": [
+      "Unlimited gym access",
+      "Personalized workout plan",
+      "Cardio training",
+      "Strength training",
+      "Locker access",
+      "Free Wi-Fi",
+      "Changing room access",
+      "Water station access",
+      "Group fitness classes",
+      "Basic fitness assessment"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Premium",
+    "price": 80,
+    "duration": "1 Month",
+    "description": "A complete fitness plan with personal training and premium support.",
+    "features": [
+      "Unlimited gym access",
+      "Personal trainer",
+      "Personalized workout plan",
+      "Personalized diet plan",
+      "All gym equipment",
+      "Cardio and strength training",
+      "Priority support",
+      "Free Wi-Fi",
+      "Changing room access",
+      "Group fitness classes",
+      "Monthly fitness assessment",
+      "Sauna and recovery area"
+    ]
+  }
+]
